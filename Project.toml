@@ -1,0 +1,11 @@
+name = "Geant4Builder_jll"
+uuid = "68084cc1-07b7-5dd5-8c66-8d10921c806e"
+version = "0.1.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Expat_jll = "2e619515-83b5-522b-bb60-26c02a35a201"
+
+[compat]
+julia = "1.3"

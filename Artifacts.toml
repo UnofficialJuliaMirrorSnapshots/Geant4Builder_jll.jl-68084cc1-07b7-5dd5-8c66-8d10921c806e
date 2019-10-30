@@ -1,0 +1,97 @@
+[[Geant4Builder]]
+arch = "x86_64"
+git-tree-sha1 = "fe1bc5da0ca886db9bff6fc3b817fa750107cefd"
+os = "macos"
+
+    [[Geant4Builder.download]]
+    sha256 = "ba6539ee064963bf0c8aba97c51bc4c2477beb74825aadd93313d162058395c9"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4Builder_jll.jl/releases/download/Geant4Builder-v0.1.0+0/Geant4Builder.v0.1.0.x86_64-apple-darwin14.tar.gz"
+[[Geant4Builder]]
+arch = "i686"
+git-tree-sha1 = "8bd98ad14fc0d5f94ad8c096a60d8a821ed33f6e"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4Builder.download]]
+    sha256 = "1ca3e1de61471b140243856807c973de7c6a7e3e8e14811b1424bff452756989"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4Builder_jll.jl/releases/download/Geant4Builder-v0.1.0+0/Geant4Builder.v0.1.0.i686-linux-gnu.tar.gz"
+[[Geant4Builder]]
+arch = "x86_64"
+git-tree-sha1 = "94384ea083ebe9f14be15849d04c028997e1b43a"
+os = "freebsd"
+
+    [[Geant4Builder.download]]
+    sha256 = "f8d3c27ecacd1688d72fd05e71d956d78b8961a82b41273176c2871e9d3f9c62"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4Builder_jll.jl/releases/download/Geant4Builder-v0.1.0+0/Geant4Builder.v0.1.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Geant4Builder]]
+arch = "powerpc64le"
+git-tree-sha1 = "02719fb5ee9c4b2ddf529a553801d46e55dcbfe4"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4Builder.download]]
+    sha256 = "d8e96afcd3314f3e56cc48cae4f175d3a36efead4802abf5963aa84092ef5e19"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4Builder_jll.jl/releases/download/Geant4Builder-v0.1.0+0/Geant4Builder.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[Geant4Builder]]
+arch = "x86_64"
+git-tree-sha1 = "a1d67867bd7b767520f33048d5e16b52d2d98ea8"
+libc = "musl"
+os = "linux"
+
+    [[Geant4Builder.download]]
+    sha256 = "9c6d0e34f1c0f16a25c1a3882bd7103d86e8860e260b7b30281d858e0c9b9d4b"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4Builder_jll.jl/releases/download/Geant4Builder-v0.1.0+0/Geant4Builder.v0.1.0.x86_64-linux-musl.tar.gz"
+[[Geant4Builder]]
+arch = "x86_64"
+git-tree-sha1 = "256f3d0b797964754a3c259bb8f9558769f4e0e5"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4Builder.download]]
+    sha256 = "5b2ffadcb4493fb076a3c188c9fe9944b8ad9e7584fa7707d77723b671767fb2"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4Builder_jll.jl/releases/download/Geant4Builder-v0.1.0+0/Geant4Builder.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[Geant4Builder]]
+arch = "aarch64"
+git-tree-sha1 = "27793674e524289f4968d0dff30439c2eeac92c3"
+libc = "musl"
+os = "linux"
+
+    [[Geant4Builder.download]]
+    sha256 = "d23c28480513dff92c88f6e9c7e119b6665ce9e878b05d1ca752e4a7a57ce1af"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4Builder_jll.jl/releases/download/Geant4Builder-v0.1.0+0/Geant4Builder.v0.1.0.aarch64-linux-musl.tar.gz"
+[[Geant4Builder]]
+arch = "armv7l"
+git-tree-sha1 = "7ad7a991cfa1dac356ddde230357d5c576e94771"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4Builder.download]]
+    sha256 = "04737f6b2652be8d53f3fe610b390f1654b2e8e90d6609e8d907997e1b4d4fa3"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4Builder_jll.jl/releases/download/Geant4Builder-v0.1.0+0/Geant4Builder.v0.1.0.arm-linux-gnueabihf.tar.gz"
+[[Geant4Builder]]
+arch = "i686"
+git-tree-sha1 = "32d6cfceb358b72fd49c1af1adc3e1ed3c57f3ee"
+libc = "musl"
+os = "linux"
+
+    [[Geant4Builder.download]]
+    sha256 = "3711c2e8963d36a563496890bbd3f7c8fb17c8b665bff19fcd2db4c4cd29eaf2"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4Builder_jll.jl/releases/download/Geant4Builder-v0.1.0+0/Geant4Builder.v0.1.0.i686-linux-musl.tar.gz"
+[[Geant4Builder]]
+arch = "armv7l"
+git-tree-sha1 = "4a15590a306053e9891a78588176ae0a2c8d7d88"
+libc = "musl"
+os = "linux"
+
+    [[Geant4Builder.download]]
+    sha256 = "015e1a8a2ef9bf98a3835539b97e09b97f78bf5ee794a6362f37f6bec906943c"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4Builder_jll.jl/releases/download/Geant4Builder-v0.1.0+0/Geant4Builder.v0.1.0.arm-linux-musleabihf.tar.gz"
+[[Geant4Builder]]
+arch = "aarch64"
+git-tree-sha1 = "0aa07b9fb746d94c4ebcf4628a4bebfedd10bda9"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4Builder.download]]
+    sha256 = "b0f636079cddfaf8c6ed27a610336d25667b5d908e5ccc6402bcdf87024dbc34"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4Builder_jll.jl/releases/download/Geant4Builder-v0.1.0+0/Geant4Builder.v0.1.0.aarch64-linux-gnu.tar.gz"
